@@ -6,3 +6,13 @@
 
 ### Proposed augmentation radial basis function model
 ![model](https://github.com/cooling-0/CausalRBF/blob/main/modelarc.jpg)
+
+<code>
+@article{jung2024small,
+  title={Small dataset augmentation with radial basis function approximation for causal discovery using constraint-based method},
+  author={Jung, Chan Young and Jang, Yun},
+  journal={ETRI Journal},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+  <code>
